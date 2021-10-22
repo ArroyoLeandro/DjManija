@@ -1,0 +1,24 @@
+{
+  "name": "djmanija",
+  "version": "1.0.0",
+  "description": "Bot de Musica para los bepis",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kanji1",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "file-system": "^2.2.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.0.0"
+  }
+}
