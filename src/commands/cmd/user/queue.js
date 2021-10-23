@@ -2,7 +2,7 @@
 module.exports = {
     name:'queue',
     desc: 'Muestra lista de reproduccion actual',
-    usage: 'queue ',
+    usage: '!queue',
     aliases: ["q"],
     isPrivate: false,
     guildOnly: false,

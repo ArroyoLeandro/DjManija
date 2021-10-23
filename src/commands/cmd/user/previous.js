@@ -2,7 +2,7 @@
 module.exports = {
     name:'previous',
     desc: 'Reproduce la cancion anterior',
-    usage: 'previous ',
+    usage: '!previous',
     aliases: ["prev"],
     isPrivate: false,
     guildOnly: false,

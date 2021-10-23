@@ -2,7 +2,7 @@
 module.exports = {
     name:'pause',
     desc: 'Pausa la cancion actual',
-    usage: 'pause ',
+    usage: '!pause',
     aliases: [],
     isPrivate: false,
     guildOnly: false,

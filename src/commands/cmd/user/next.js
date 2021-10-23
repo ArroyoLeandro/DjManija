@@ -1,8 +1,8 @@
 
 module.exports = {
     name:'next',
-    desc: 'Reproduce la cancion siguiente',
-    usage: 'next ',
+    desc: 'Reproduce la siguiente cancion de la lista',
+    usage: '!next',
     aliases: ["n"],
     isPrivate: false,
     guildOnly: false,

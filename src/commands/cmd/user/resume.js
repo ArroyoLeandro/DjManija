@@ -2,7 +2,7 @@
 module.exports = {
     name:'resume',
     desc: 'Reanuda la cancion pausada',
-    usage: 'resume ',
+    usage: '!resume ',
     aliases: ["r"],
     isPrivate: false,
     guildOnly: false,

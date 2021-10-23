@@ -2,7 +2,7 @@
 module.exports = {
     name:'stop',
     desc: 'Detiene la lista de reproducción',
-    usage: 'stop ',
+    usage: '!stop',
     aliases: ["s"],
     isPrivate: false,
     guildOnly: false,
